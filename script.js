@@ -95,5 +95,5 @@ function copyPassword() {
     copyText.select();
     copyText.setSelectionRange(0, 99999)
     document.execCommand("copy");
-    alert("Password Copied!")
+    alert("Password Copied, Thank you for Using our Password Genrator!")
 };
